@@ -10,7 +10,7 @@ A beautiful, fast AI assistant powered by Google Gemini.
 - 🤖 Google Gemini AI integration
 
 ## 🚀 Live Demo
-[https://loki-ai.vercel.app](https://loki-ai.vercel.app)
+[https://loki--ai.vercel.app](https://loki--ai.vercel.app)
 
 ## 🔧 Hidden Powers
 - **Triple tap Emma logo** - Open admin panel
